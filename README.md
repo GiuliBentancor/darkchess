@@ -10,7 +10,7 @@ Terminal one
 > make
 
 ##
-Change to run again the analysis 
+Change to run again the analysis x2
 Terminal two
 > make ui
 
