@@ -1,5 +1,7 @@
 # Darkchess
 
+$$
+algk
 Chess with Fog of War. 
 
 ![img](client/src/img/playdarkchess.png)
