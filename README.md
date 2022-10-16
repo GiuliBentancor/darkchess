@@ -9,6 +9,8 @@ Chess with Fog of War.
 Terminal one
 > make
 
+##
+Change to run again the analysis 
 Terminal two
 > make ui
 
