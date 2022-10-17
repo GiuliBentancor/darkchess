@@ -1,4 +1,4 @@
-# Darkchess
+# Darkchess123
 
 $$
 algk
@@ -16,7 +16,7 @@ Terminal one
 ##
 Change to run again the analysis x2
 Terminal two
-> make ui
+> make ui a
 
 ## Deploy
 
