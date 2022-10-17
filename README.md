@@ -1,4 +1,4 @@
-# Darkchess123
+# Darkchess1234234
 
 $$
 algk
@@ -7,13 +7,13 @@ another
 
 ![img](client/src/img/playdarkchess.png)
 ##New section
-new text
+new textrq
 ## Building
 
 ##nreads
 Terminal onedassad
-> make
-
+> makeqq
+qq
 ##
 Change to run again the analysis x2
 Terminal two
