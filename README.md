@@ -11,7 +11,7 @@ new text
 ## Building
 
 ##nreads
-Terminal one
+Terminal onedassad
 > make
 
 ##
@@ -32,6 +32,8 @@ git push codecommit master
 * react-router-v4, standard bootstrap
 * uses create-react-app build scripts for minimized deploy bundles
 
+adsñ
+//comment
 ### Java backend
 * maven for dep management and building
 * rest api using jersey
