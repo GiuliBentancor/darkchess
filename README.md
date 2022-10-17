@@ -3,6 +3,7 @@
 $$
 algk
 Chess with Fog of War. 
+another
 
 ![img](client/src/img/playdarkchess.png)
 ##New section
