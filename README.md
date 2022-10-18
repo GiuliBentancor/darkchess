@@ -17,6 +17,7 @@ Terminal onedassad
 > makeqq
 qq
 ##
+#$$%&/((
 Change to run again the analysis x2
 Terminal two
 > make ui a
